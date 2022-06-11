@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltpOibp34jQMQSvLf2f+daRDb6YJyL08FGDz9Ev53RfTkwGAfM/jIKHl1+KoiFTgKHbCpaMq2/GLOC88mX+HDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rel0aded\\source\\repos\\CVEFind\\CVEFind\\CVEFind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rel0aded\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
