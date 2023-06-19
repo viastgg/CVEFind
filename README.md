@@ -15,6 +15,7 @@ This application shows you the vulnerabilities recorded in the database.
 - Multiple Databases
 - Settings Panel
 - Update Manager
-
+# Uh
+thats the most L app
 
   
